@@ -4,6 +4,7 @@
   <h3> Stage Deployment V2.7 RC1 </h3>
   <h3> Good luck to everbody... </h3>
   <h3> You are doing good work ... </h3>
-  <h1> Latest revision </h1>  
+  <h1> Latest revision </h1>
+  <h2> ı have updated index.jsp </h2>
 </body>
 </html>
